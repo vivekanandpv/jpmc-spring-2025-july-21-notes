@@ -1,0 +1,53 @@
+Enterprise Applications
+
+Networked application
+Distributed architecture
+Scale and availability
+Security
+Data integrity and transactions
+Monitoring
+
+J2EE was more of a standard, like a blueprint
+Collection of several interfaces
+
+When you wanted to run your application, you need an application server.
+
+Oracle WebLogic Server
+IBM WebSphere
+...
+
+Spring programming model is all about components. These components are like spare parts used in a giant machine. Some of these components are provided by the framework, some by third-party libraries, and some by the developer.
+
+The components I mentioned above are all objects that are used in programming.
+
+The technical term for such an object is a "bean"
+
+When Spring application starts, it holds all such beans in a collection called ApplicationContext.
+
+Spring programming model is to define the beans and use them in a decoupled way in your application.
+
+Decoupling here means, separate the definition from the use
+
+To define the beans you have two ways: @Bean and @Component
+To use them in your application, you have the Dependency Injection
+
+This way of separating Bean and usage of bean is called Dependency Inversion or Inversion of Control (DI/IoC)
+Dependency Injection is a process in which Spring "provides" you the dependency.
+
+Dependency Inversion is a principle; Dependency Injection is a process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
