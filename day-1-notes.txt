@@ -37,6 +37,23 @@ Dependency Injection is a process in which Spring "provides" you the dependency.
 Dependency Inversion is a principle; Dependency Injection is a process.
 
 
+Bean Scopes: https://docs.spring.io/spring-framework/reference/core/beans/factory-scopes.html
+
+Singleton: for stateless components
+Prototype: stateful components
+request: stateful, but within the request (user inputs in MVC, etc)
+session: stateful components but within the session (shopping cart)
+application: configurations across different sessions and requests but within the same Servlet ApplicationContext
+websocket: chats, real-time gaming, etc.
+
+For JPA and Hibernate:
+https://thorben-janssen.com/key-jpa-hibernate-annotations/
+https://thorben-janssen.com/difference-jpa-hibernate-eclipselink/
+https://thorben-janssen.com/dto-projections/
+https://thorben-janssen.com/tutorials/
+https://thorben-janssen.com/jpql/
+https://thorben-janssen.com/hibernate-tips-use-pagination-jpql/
+https://thorben-janssen.com/jpa-beginners-course/
 
 
 
