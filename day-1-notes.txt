@@ -56,7 +56,16 @@ https://thorben-janssen.com/hibernate-tips-use-pagination-jpql/
 https://thorben-janssen.com/jpa-beginners-course/
 
 
+Aspect-Oriented Programming is about brining in cross-cutting concerns (common features) in an unobtrusive way into our programs
+@Component, @RestController, @Repository, etc. are all the result of AOP. In fact, without AOP, Spring is zero.
 
+Some terms:
+1. Aspect: Common feature such as "responding to GET requests"
+2. Advise: Container for Aspects
+3. JoinPoint: The location at which the Aspect in introduced to the target (class, method, parameter, field, etc)
+4. PointCut: The expression used to identify the target inside the Aspect
+
+In Java, almost always AspectJ is used to provide the AOP facilities. Spring supports it.
 
 
 
