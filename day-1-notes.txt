@@ -67,6 +67,42 @@ Some terms:
 
 In Java, almost always AspectJ is used to provide the AOP facilities. Spring supports it.
 
+Additional Resources:
+https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html
+https://learn.microsoft.com/en-us/azure/architecture/patterns/
+
+https://spring.io/projects/spring-cloud-config
+https://spring.io/projects/spring-cloud-gateway
+https://cloud.spring.io/spring-cloud-netflix/reference/html/
+
+https://opentelemetry.io/
+https://www.jaegertracing.io/
+https://docs.newrelic.com/docs/distributed-tracing/concepts/introduction-distributed-tracing/
+https://zipkin.io/
+
+https://spring.io/projects/spring-cloud-sleuth
+https://micrometer.io/docs/tracing
+
+https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/
+https://learning.oreilly.com/library/view/-/9781633437975/
+https://learning.oreilly.com/library/view/-/9781617297571/
+
+https://learning.oreilly.com/library/view/-/9781492034018/
+https://learning.oreilly.com/playlists/dd8a946c-de71-4501-8a3c-f425cd32beb4/
+
+https://learning.oreilly.com/videos/-/9781491935811/
+https://learning.oreilly.com/videos/-/9781492038986/
+
+https://martinfowler.com/bliki/DomainDrivenDesign.html
+https://martinfowler.com/bliki/MicroservicePrerequisites.html
+https://martinfowler.com/articles/distributed-objects-microservices.html
+https://gotopia.tech/bookclub/episodes/moving-to-microservices-with-sam-newman-and-martin-fowler
+https://martinfowler.com/articles/break-monolith-into-microservices.html
+https://martinfowler.com/articles/microservice-testing
+https://martinfowler.com/articles/micro-frontends.html
+https://martinfowler.com/bliki/InfrastructureAsCode.html
+https://martinfowler.com/bliki/DevOpsCulture.html
+
 
 
 
